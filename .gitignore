@@ -1,3 +1,9 @@
 classes
 .metadata
 
+.gradle
+.classpath
+.project
+.settings
+bin
+example3/build
