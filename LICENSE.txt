@@ -1,0 +1,5 @@
+The license for this software is according to 
+http://creativecommons.org/licenses/by-sa/3.0/
+
+If you need a different license for some reason, use the contact info on https://github.com/mikadomethod 
+
